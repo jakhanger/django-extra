@@ -25,7 +25,7 @@ SECRET_KEY = 'ums=@t_p6g%61hcybc!s0*yeegc$$lcz5w1s*30$bsp_merh=*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'akbota.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'nivis.pythonanywhere.com']
 
 
 # Application definition
